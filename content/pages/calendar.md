@@ -4,21 +4,163 @@ title: Calendar
 uid: 802e1c29-c483-1421-a2ff-f39c970bc9bd
 ---
 
-| CLASS # | TOPICS |
-| --- | --- |
-| 1 | Introduction: Basic Plasma Properties |
-| 2, 3 | Debye Shielding: Collective Effects |
-| 4, 5 | Charged Particle Motion in EM Fields |
-| 6, 7 | Coulomb Collisions: Cross-sections, Relaxation |
-| 8, 9 | Transport Processes |
-| 10, 11 | Fluid Plasma Descriptions |
-| 12, 13 | MHD Equilibrium |
-| 14, 15 | MHD Dynamics |
-| 16, 17 | Mid Term Exam |
-| 18, 19 | Dynamics in Two-fluid Plasmas |
-| 20, 21 | Cold Plasma Waves in a Magnetic Field |
-| 22, 23 | Microscopic to Fluid Plasma Descriptions |
-| 24 | Vlasov-Maxwell Kinetic Theory |
-| 25, 26 | Linear Landau Damping and Growth |
-| 27 | Kinetic Description of Waves and Instabilities;  {{< br >}}Experiments on Plasma Waves and Landau Damping |
-| 28, 29 | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Basic Plasma Properties
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2, 3
+{{< tdclose >}}
+{{< tdopen >}}
+Debye Shielding: Collective Effects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4, 5
+{{< tdclose >}}
+{{< tdopen >}}
+Charged Particle Motion in EM Fields
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6, 7
+{{< tdclose >}}
+{{< tdopen >}}
+Coulomb Collisions: Cross-sections, Relaxation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8, 9
+{{< tdclose >}}
+{{< tdopen >}}
+Transport Processes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10, 11
+{{< tdclose >}}
+{{< tdopen >}}
+Fluid Plasma Descriptions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12, 13
+{{< tdclose >}}
+{{< tdopen >}}
+MHD Equilibrium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14, 15
+{{< tdclose >}}
+{{< tdopen >}}
+MHD Dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16, 17
+{{< tdclose >}}
+{{< tdopen >}}
+Mid Term Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18, 19
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics in Two-fluid Plasmas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20, 21
+{{< tdclose >}}
+{{< tdopen >}}
+Cold Plasma Waves in a Magnetic Field
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22, 23
+{{< tdclose >}}
+{{< tdopen >}}
+Microscopic to Fluid Plasma Descriptions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Vlasov-Maxwell Kinetic Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25, 26
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Landau Damping and Growth
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic Description of Waves and Instabilities;  
+Experiments on Plasma Waves and Landau Damping
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28, 29
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
