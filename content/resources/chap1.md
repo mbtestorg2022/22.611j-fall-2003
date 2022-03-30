@@ -9,6 +9,7 @@ description: 'Note from Prof. Hutchinson: "These are transcriptions of the notes
   not all here."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/0d55dc0f7c1c80046ebc862df0e8b314_chap1.pdf
 file_type: application/pdf
+parent_uid: 327a6b79-2caa-aecf-26ce-0cd4632437bc
 resourcetype: Document
 title: chap1.pdf
 uid: 0d55dc0f-7c1c-8004-6ebc-862df0e8b314
